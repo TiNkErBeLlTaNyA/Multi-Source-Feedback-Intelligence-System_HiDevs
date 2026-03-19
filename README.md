@@ -100,6 +100,11 @@ Generates a weekly PDF report including:
 
 ---
 
+## Dashboard Screenshots
+
+
+---
+
 ## 🎥 Demo Video  
 
 [Click here to watch demo](https://youtu.be/NnOj7TezYzg)
