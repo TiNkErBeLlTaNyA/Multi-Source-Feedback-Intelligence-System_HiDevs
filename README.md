@@ -106,15 +106,6 @@ Generates a weekly PDF report including:
 
 ---
 
-## 📊 Dashboard Preview  
-
-![Dashboard](dashboard.png)
-
-*Figure:*
-
-
----
-
 ## 📈 Use Case  
 
 This system helps product managers and businesses:
