@@ -108,7 +108,8 @@ Generates a weekly PDF report including:
 
 ## 📊 Dashboard Preview  
 
-(Add screenshot here)
+![Dashboard](dashboard.png)
+
 
 ---
 
